@@ -1,4 +1,4 @@
-# SpringBootKafka
+# SpringCloud
 
 1. git clone https://github.com/lorenzolince/docker.git
 2. cd docker/spring-boot
